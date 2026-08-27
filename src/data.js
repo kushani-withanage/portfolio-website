@@ -1307,7 +1307,7 @@ export const careerMilestones = [
     company: "Institute of Computer Engineering Technology (iCET)",
     period: "Jan 2024 – Present",
     type: "Full-Time Executive",
-    location: "Panadura & Colombo, Sri Lanka",
+    location: "Panadura, Sri Lanka",
     description: "Own academic operations, industry engagement, content, and student experience for a fast-growing IT education brand.",
     achievements: [
       "Lead 15+ industry professionals across academic and industry-facing initiatives.",
@@ -1323,7 +1323,7 @@ export const careerMilestones = [
     company: "Institute of Computer Engineering Technology (iCET)",
     period: "Jul 2023 – Jan 2025",
     type: "Academic Faculty",
-    location: "Panadura & Colombo, Sri Lanka",
+    location: "Panadura, Sri Lanka",
     description: "Delivered IT and software engineering education, keeping content industry-relevant through direct collaboration with practitioners; built technical learning materials and supported workshops and student engagement.",
     achievements: [
       "Delivered industry-aligned IT and software engineering curriculum.",
@@ -1336,7 +1336,7 @@ export const careerMilestones = [
     company: "Institute of Computer Engineering Technology (iCET)",
     period: "Jan 2023 – Jun 2023",
     type: "Academic Support",
-    location: "Panadura & Colombo, Sri Lanka",
+    location: "Panadura, Sri Lanka",
     description: "Supported academic programs, event coordination, and stakeholder communication in a fast-growing institution.",
     achievements: [
       "Assisted in daily academic operations and program administration.",

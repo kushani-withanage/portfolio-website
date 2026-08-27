@@ -1,6 +1,6 @@
 import { personalInfo, keyMetrics, projects, competencies, careerMilestones, educationList } from './data.js';
-import cvPdf from './assets/documents/Msc CV.pdf.pdf';
-import portfolioPdf from './assets/documents/Full Portfolio.pdf';
+import cvPdf from './assets/documents/KushaniWithanageCV.pdf';
+import portfolioPdf from './assets/documents/KushaniWithanagePortfolio.pdf';
 
 // SVG Icons Generator helper for crisp zero-latency vector rendering
 const icons = {
